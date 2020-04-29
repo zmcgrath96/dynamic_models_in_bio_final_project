@@ -39,7 +39,7 @@ ikba->ikba_n
 ikba_n->ikba
 ikk+ikbb->ikkikbb
 ikkikbb->ikk+ikbb
-ikbb_n->ikbb+ikbb_-t
+ikbb_-t->ikbb+ikbb_-t
 ikbb->sink
 ikbb->ikbb_n
 ikbb_n->ikbb
